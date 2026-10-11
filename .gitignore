@@ -1,0 +1,8 @@
+.DS_Store
+._*
+__MACOSX/
+.idea/
+.vscode/
+__pycache__/
+*.py[cod]
+.venv/
